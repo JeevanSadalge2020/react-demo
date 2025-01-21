@@ -1,0 +1,32 @@
+[
+    {
+        "name": "thor",
+        "id": "1",
+        "image": "https://images.unsplash.com/photo-1626209731723-4bf514fcdcd1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGF2ZW5nZXJ8ZW58MHx8MHx8fDA%3D",
+        "alt": "thor"
+    },
+    {
+        "name": "antman",
+        "id": "2",
+        "image": "https://images.unsplash.com/photo-1608889345685-48bb8ef605e2?q=80&w=1480&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "alt": "antman"
+    },
+    {
+        "name": "spiderman",
+        "id": "3",
+        "image": "https://images.unsplash.com/photo-1558680689-ce686c5e2fb8?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "alt": "spiderman"
+    },
+    {
+        "name": "deadpool",
+        "id": "4",
+        "image": "https://images.unsplash.com/photo-1608889335941-32ac5f2041b9?q=80&w=1480&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "alt": "deadpool"
+    },
+    {
+        "name": "captain america",
+        "id": "5",
+        "image": "https://images.unsplash.com/photo-1561149877-84d268ba65b8?q=80&w=1335&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "alt": "captain america"
+    }
+]
