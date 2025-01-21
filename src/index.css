@@ -34,25 +34,21 @@ ul {
 }
 
 .profile-visible {
+  grid-template-rows: 2rem 3rem 250px;
+}
+
+.profile {
   flex-basis: 250px;
   border: 1px solid black;
   display: grid;
-  grid-template-rows: 2rem 3rem 250px;
   justify-items: center;
   padding: 1rem;
   border-radius: 1rem;
-  transition: all linear 0.3s;
+  transition: all ease-in-out 0.15s;
 }
 
 .profile-hidden {
-  flex-basis: 250px;
-  border: 1px solid black;
-  display: grid;
   grid-template-rows: 2rem 3rem 0px;
-  justify-items: center;
-  padding: 1rem;
-  border-radius: 1rem;
-  transition: all linear 0.3s;
 }
 
 h2 {
